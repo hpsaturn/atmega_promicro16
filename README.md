@@ -2,7 +2,7 @@
 
 # Atmega32u4 board tests 
 
-Tests on a Pro micro 16Mhz 5V 'sparkfun' like board. 
+Tests on a Pro micro 16Mhz 5V like these [Sparkfun/Aliexpress boards](https://www.aliexpress.com/item/32888212119.html)
 
 ## Platformio Config
 
